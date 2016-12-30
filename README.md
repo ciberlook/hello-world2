@@ -1,2 +1,2 @@
 # hello-world2
-nuevamente para aprender que coño es esto
+I am alberto marin and I am here to learn what is git
